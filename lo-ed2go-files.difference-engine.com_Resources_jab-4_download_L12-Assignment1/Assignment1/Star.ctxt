@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=screenSize
+comment0.target=Star(java.awt.Dimension)
+comment0.text=\n\ int\ N\ \=\ 5\n\ float\ angle\ \=\ 72;\ \ //\ 360/N\n\ int[5][2]\ vertices;\n\ \n\ for\ (int\ i\ \=\ 0;\ i\ <\ 5;\ i++)\ {\n\ \ \ \ \ vertices[i][0]\ \=\ cos(\ toRadians(\ angle\ *\ i\ ))\ *\ radius;\n\ \ \ \ \ vertices[i][1]\ \=\ sin(\ toRadians(\ angle\ *\ i\ ))\ *\ radius;\n\ }\n
+comment1.params=
+comment1.target=int\ getRadius()
+comment2.params=
+comment2.target=int\ getDiameter()
+comment3.params=
+comment3.target=java.awt.Color\ getColor()
+comment4.params=
+comment4.target=java.awt.Point\ getLocation()
+comment5.params=
+comment5.target=java.awt.Point\ getSpeed()
+comment6.params=
+comment6.target=void\ move()
+comment7.params=g2d
+comment7.target=void\ paint(java.awt.Graphics2D)
+numComments=8
