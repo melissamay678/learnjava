@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ConvertNumbertoDay
+comment0.text=\r\n\ ConvertNumbertoDay\ program\ will\ change\ the\ numbers\ 1\ through\ 7\ to\ \r\n\ its\ corresponding\ day\ of\ the\ week\ and\ display\ that\ information\ \r\n\ to\ the\ user.\r\n\ \r\n\ @author\ Melissa\ Mahlberg\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

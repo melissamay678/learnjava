@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=DebuggerExample
+comment0.text=\r\n\ This\ class\ is\ a\ simple\ program\ whose\ use\ is\ deplaying\ blueJ's\ \r\n\ debugger\ functions.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Main\ method\ with\ variables,\ a\ loop,\ an\ if\ statement,\ and\ a\ method\ call\r\n
+comment2.params=z
+comment2.target=double\ myMethod(int)
+comment2.text=\r\n\ A\ method\ with\ a\ parameter\ and\ return\ value\r\n
+numComments=3

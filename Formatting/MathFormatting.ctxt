@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MathFormatting
+comment0.text=\r\n\ MathFormatting\ provides\ a\ solution\ to\ an\ exercise\ in\ the\ lesson.\r\n\ \r\n\ @author\ Merrill\ Hall\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ The\ main()\ method\ calculates\ the\ cube\ root\ of\ the\ first\ 25\r\n\ positive\ integers\ and\ formats\ them\ to\ display\ 5\ decimal\r\n\ places.\r\n
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=SwitchTest2
+comment0.text=\r\n\ SwitchTest2\ is\ an\ example\ of\ a\ switch\ structure\ using\ strings.\ It\ reads\r\n\ a\ day\ of\ the\ week\ from\ the\ keyboard\ and\ then\ displays\ a\ message\ based\ on\ the\ day.\r\n\ \r\n\ @author\ Merrill\ Hall\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

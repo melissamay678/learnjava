@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=EnumTest1
+comment0.text=\r\n\ EnumTest1\ runs\ a\ simple\ program\ as\ an\ example\ of\ using\ an\ enum\ in\ a\ switch\ statement.\r\n\ \r\n\ @author\ Merrill\ Hall\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=day
+comment2.target=void\ howsYourDay(EnumTest1.DayOfWeek)
+numComments=3

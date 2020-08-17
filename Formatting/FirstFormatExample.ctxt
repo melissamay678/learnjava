@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FirstFormatExample
+comment0.text=\r\n\ FirstFormatExample\ provides\ a\ quick\ example\ of\ printf()\ formatting.\r\n\ \r\n\ @author\ Merrill\ Hall\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ The\ main()\ method\ displays\ several\ strings\ and\ numbers\ in\ columns\r\n
+numComments=2
