@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=StringComparison
+comment0.text=\r\n\ This\ program\ will\ ask\ the\ user\ for\ two\ strings,\ compares\ them,\ and\ \r\n\ displays\ them\ in\ alphabetical\ order.\r\n\r\n\ @author\ Melissa\ Mahlberg\r\n\ @version\ 1.0\ \ \ \ \ 7/11/2020\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

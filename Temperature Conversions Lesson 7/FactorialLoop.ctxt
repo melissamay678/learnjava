@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=FactorialLoop
+comment0.text=\r\n\ THis\ program\ calculates\ teh\ factorial\ of\ a\ number\ between\ 0\ and\ 20.\r\n\ The\ 21st\ value\ exceeds\ the\ capacity\ of\ a\ long\ type.\r\n\r\n\ @author\ Melissa\ Mahlberg\r\n/\ *\ @version\ 1\ \ \ 07/14/2020\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

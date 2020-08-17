@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TemperatureDriver
+comment0.text=\r\n\ TemperatureDriver\ runs\ and\ tests\ the\ Temperature\ class.\r\n\ \r\n\ @author\ Melissa\ Mahlberg\r\n\ @version\ 2.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ main()\ reads\ two\ Fahrenheit\ temperatures\ and\ \r\n\ displays\ their\ Celsius\ and\ Kelvin\ equivalents.\r\n
+numComments=2

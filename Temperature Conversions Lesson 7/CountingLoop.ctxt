@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CountingLoop
+comment0.text=\r\n\ This\ program\ counts\ up\ or\ down\ between\ two\ numbers\ entered\ by\ the\ user.\r\n\r\n\ @author\ Melissa\ Mahlberg\r\n\ @version\ 1\ \ \ 07/14/2020\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Fibonacci
+comment0.text=\r\n\ This\ program\ calculates\ the\ first\ n\ numbers\ of\ the\ Fibonacci\ sequence.\r\n\ The\ 93rd\ value\ exceeds\ the\ capacity\ of\ a\ long\ type.\r\n\r\n\ @author\ Melissa\ Mahlberg\r\n\ @version\ 1\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

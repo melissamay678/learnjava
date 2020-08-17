@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=NumberComparison
+comment0.text=\r\n\ THis\ program\ asks\ the\ user\ for\ two\ numbers,\ then\ compares\ them\ and\r\n\ diplays\ which\ is\ greater.\r\n\r\n\ @author\ Melissa\ Mahlberg\r\n\ @version\ 1.0\ \ \ \ \ 7/11/2020\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

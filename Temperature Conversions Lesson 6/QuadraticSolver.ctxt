@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=QuadraticSolver
+comment0.text=\r\n\ QuadraticSolver\ calculates\ the\ roots\ of\ a\ quadratic\ equation.\r\n\ \r\n\ @author\ Merrill\ Hall\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ main\ method\ asks\ for\ the\ real\ coefficients\ a,\ b,\ and\ c\ in\ a\ \r\n\ quadratic\ equation\ of\ the\ following\ form\:\r\n\ \r\n\ \ \ \ \ \ 2\r\n\ \ \ \ ax\ \ +\ bx\ +\ c\ \=\ 0\r\n\ \ \ \ \r\n\ main\ then\ calculates\ the\ two\ real\ roots\ of\ the\ equation.\r\n
+comment2.params=inputA\ inputB\ inputC
+comment2.target=QuadraticSolver(double,\ double,\ double)
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ QuadraticSolver\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ toString\ calculates\ and\ returns\ the\ roots\ for\ the\ quadratic\ equation\r\n\ in\ a\ string\ format\r\n
+numComments=4
