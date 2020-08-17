@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TextWriter
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ TextWriter\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=TextWriter()
+comment2.params=inputText
+comment2.target=TextWriter(java.lang.String)
+comment3.params=inputText
+comment3.target=void\ setTextToDisplay(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getTextToDisplay()
+comment5.params=
+comment5.target=void\ clearTextToDisplay()
+comment6.params=
+comment6.target=void\ display()
+numComments=7
