@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=size
+comment0.target=SunriseSunset(java.awt.Dimension)
+comment1.params=
+comment1.target=void\ run()
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+numComments=3
